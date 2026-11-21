@@ -2,8 +2,8 @@
 
 | | |
 |---|---|
-| **Name** | V V Naveen Kumar |
-| **Register number** | 192321018 |
+| **Name** | BALA ASHWIN R |
+| **Register number** | 1921260102 |
 | **Course / assignment** | CSA09 Programming in Java – Assignment 5 (CO5: Java I/O and JDBC) |
 | **Java version** | OpenJDK 21.0.13 (any JDK 17+ works; the code uses only standard Java) |
 | **Database / driver used** | MariaDB 10.11.14 (MySQL-compatible) + MariaDB Connector/J 2.7.6 · local database `csa09_assignment5` created only for this assignment |
