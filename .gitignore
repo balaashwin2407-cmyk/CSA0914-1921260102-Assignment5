@@ -1,0 +1,5 @@
+classes/
+*.class
+data/bench/
+*.bak
+Task04/data/migration_100k.txt
